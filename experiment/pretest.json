@@ -2,38 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What does CFG stand for in the context of formal languages?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Centralized Formal Grammar",
+        "b": "Context-Free Grammar",
+        "c": "Configurable Formal Generator",
+        "d": "Compiler-Free Generator"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b",
+      "difficulty": "basic"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following is NOT a valid component of a production rule in a context-free grammar?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Non-terminal",
+        "b": "Terminal",
+        "c": "Lexical",
+        "d": "Production arrow"
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": "basic"
+    },
+    {
+      "question": "What is the primary purpose of converting a Context-Free Grammar (CFG) to Chomsky Normal Form (CNF)?",
+      "answers": {
+        "a": "To improve readability for humans",
+        "b": "To simplify parsing algorithms",
+        "c": "To enhance expressive power",
+        "d": "To add more complexity to the grammar"
+      },
+      "correctAnswer": "b",
+      "difficulty": "basic"
     }
   ]
 }

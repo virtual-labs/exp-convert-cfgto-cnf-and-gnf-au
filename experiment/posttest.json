@@ -2,37 +2,54 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the primary purpose of converting a Context-Free Grammar (CFG) to Chomsky Normal Form (CNF)?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To simplify the grammar and facilitate analysis.",
+        "b": "To increase expressiveness and flexibility.",
+        "c": "To introduce ambiguity in language structure.",
+        "d": "To enhance lexical analysis."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Converting CFG to CNF simplifies the grammar for easier analysis. [Learn more](www.examplelink.com).",
+        "b": "While CNF simplifies the grammar, it does not aim to increase expressiveness or flexibility.",
+        "c": "Converting to CNF aims to reduce ambiguity in language structure.",
+        "d": "CNF primarily focuses on structural simplification, not lexical analysis."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In the context of Context-Free Grammar (CFG) conversion, what does GNF stand for?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Grammar Normal Form",
+        "b": "Greibach Normal Form",
+        "c": "Graphical Normal Form",
+        "d": "Grouped Nonterminal Form"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. GNF stands for Greibach Normal Form.",
+        "b": "Correct! GNF stands for Greibach Normal Form, a specific form of CFG.",
+        "c": "Incorrect. GNF does not stand for Graphical Normal Form.",
+        "d": "Incorrect. GNF stands for Greibach Normal Form, not Grouped Nonterminal Form."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why might a linguist or a compiler designer choose to convert a CFG to Greibach Normal Form (GNF)?",
+      "answers": {
+        "a": "To enhance human readability of the grammar.",
+        "b": "To conform to a specific standard or convention.",
+        "c": "To increase ambiguity in language interpretation.",
+        "d": "To simplify the grammar for compiler optimization."
+      },
+      "explanations": {
+        "a": "GNF is not primarily chosen for enhancing human readability.",
+        "b": "Correct! Converting to GNF may be done to adhere to a specific standard or convention in language representation.",
+        "c": "Converting to GNF aims to reduce ambiguity, not increase it.",
+        "d": "Simplifying the grammar for compiler optimization is a valid reason for choosing GNF."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
