@@ -1,0 +1,69 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What does CFG stand for in the context of formal languages?",
+      "answers": {
+        "a": "Centralized Formal Grammar",
+        "b": "Context-Free Grammar",
+        "c": "Configurable Formal Generator",
+        "d": "Compiler-Free Generator"
+      },
+      "correctAnswer": "b",
+      "difficulty": "basic"
+    },
+    {
+      "question": "Which of the following is NOT a valid component of a production rule in a context-free grammar?",
+      "answers": {
+        "a": "Non-terminal",
+        "b": "Terminal",
+        "c": "Lexical",
+        "d": "Production arrow"
+      },
+      "correctAnswer": "c",
+      "difficulty": "basic"
+    },
+    {
+      "question": "What is the primary purpose of converting a Context-Free Grammar (CFG) to Chomsky Normal Form (CNF)?",
+      "answers": {
+        "a": "To improve readability for humans",
+        "b": "To simplify parsing algorithms",
+        "c": "To enhance expressive power",
+        "d": "To add more complexity to the grammar"
+      },
+      "correctAnswer": "b",
+      "difficulty": "basic"
+    },
+    {
+      "question": "Which of the following statements about context-free grammars is TRUE?",
+      "answers": {
+        "a": "Every CFG can generate a regular language",
+        "b": "Every CFG can be represented by a pushdown automaton",
+        "c": "CFGs cannot have recursive production rules",
+        "d": "Every CFG can be converted to an equivalent regular grammar"
+      },
+      "correctAnswer": "b",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which of the following productions is valid in Greibach Normal Form (GNF)?",
+      "answers": {
+        "a": "A → BC",
+        "b": "A → aB",
+        "c": "A → ε",
+        "d": "A → Ba"
+      },
+      "correctAnswer": "b",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: Converting a CFG to CNF changes the language it generates.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "correctAnswer": "b",
+      "difficulty": "basic"
+    }
+  ]
+}
