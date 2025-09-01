@@ -6,7 +6,7 @@
 
 ![Step 1 — Select Examples](./images/step1selecteg.png)
 
----
+
 
 #### Step 2 — Choose an Example Grammar
 1. Click on one of the example buttons: **Example 1**, **Example 2**, or **Example 3**.
@@ -14,7 +14,7 @@
 
 ![Step 2 — Select Example Button](./images/step2selectedeg.png)
 
----
+
 
 ##### Step 3 — Pick a Conversion Form
 1. In **Pick a Normal Form for Conversion**, choose one of the following:
@@ -25,7 +25,7 @@
 
 ![Step 3 — Pick a Conversion Form](./images/step3choose.png)
 
----
+
 
 #### Step 4 — Step Through the Grammar Conversion
 1. In the **Grammar Conversion Simulator** panel, use the **Next** button to progress through each transformation step.
@@ -34,7 +34,7 @@
 
 ![Step 4 — Click Next to view each conversion step](./images/step4clickconvert.png)
 
----
+
 
 #### Step 5 — View Final Converted Grammar
 1. At the last step, compare the two panels:
