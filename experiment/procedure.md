@@ -1,4 +1,4 @@
-### Procedure 
+
 
 #### Step 1 — Select an Example
 1. Open the **CFG Conversion Simulator**.

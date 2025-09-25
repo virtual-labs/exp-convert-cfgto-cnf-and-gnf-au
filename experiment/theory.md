@@ -1,4 +1,4 @@
-### Theory
+
 
 A context-free grammar (CFG) specifies how strings in a language are generated from a start symbol using production rules.
 
