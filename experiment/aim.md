@@ -1,1 +1,2 @@
-### Aim of the experiment
+
+<p>This experiment is designed to  explain the conversion of context-free grammars into Chomsky Normal Form (CNF) and Greibach Normal Form (GNF) for a clearer understanding of formal language theory</p>
